@@ -1,0 +1,178 @@
+{
+  "fontFamilies": {
+    "serif": {
+      "value": "Hoefler Text",
+      "type": "text"
+    },
+    "sans": {
+      "value": "Inter",
+      "type": "text"
+    },
+    "display": {
+      "value": "Liberator",
+      "type": "text"
+    },
+    "code": {
+      "value": "Roboto Mono",
+      "type": "text"
+    }
+  },
+  "fontWeights": {
+    "400": {
+      "value": "400",
+      "type": "number"
+    },
+    "600": {
+      "value": "600",
+      "type": "number"
+    },
+    "700": {
+      "value": "700",
+      "type": "number"
+    },
+    "regular-italic": {
+      "value": "Italic",
+      "type": "text"
+    },
+    "semibold-italic": {
+      "value": "Semi Bold Italic",
+      "type": "text"
+    }
+  },
+  "fontSizes": {
+    "9xl": {
+      "value": "128",
+      "type": "number"
+    },
+    "8xl": {
+      "value": "96",
+      "type": "number"
+    },
+    "7xl": {
+      "value": "72",
+      "type": "number"
+    },
+    "6xl": {
+      "value": "60",
+      "type": "number"
+    },
+    "5xl": {
+      "value": "48",
+      "type": "number"
+    },
+    "4xl": {
+      "value": "40",
+      "type": "number"
+    },
+    "3xl": {
+      "value": "30",
+      "type": "number"
+    },
+    "2xl": {
+      "value": "24",
+      "type": "number"
+    },
+    "xl": {
+      "value": "20",
+      "type": "number"
+    },
+    "lg": {
+      "value": "18",
+      "type": "number"
+    },
+    "base": {
+      "value": "16",
+      "type": "number"
+    },
+    "sm": {
+      "value": "14",
+      "type": "number"
+    },
+    "xs": {
+      "value": "12",
+      "type": "number"
+    }
+  },
+  "lineHeights": {
+    "9xl": {
+      "value": "128",
+      "type": "number"
+    },
+    "8xl": {
+      "value": "96",
+      "type": "number"
+    },
+    "7xl": {
+      "value": "72",
+      "type": "number"
+    },
+    "6xl": {
+      "value": "60",
+      "type": "number"
+    },
+    "5xl": {
+      "value": "48",
+      "type": "number"
+    },
+    "4xl": {
+      "value": "40",
+      "type": "number"
+    },
+    "3xl": {
+      "value": "36",
+      "type": "number"
+    },
+    "2xl": {
+      "value": "28",
+      "type": "number"
+    },
+    "xl": {
+      "value": "24",
+      "type": "number"
+    },
+    "lg": {
+      "value": "24",
+      "type": "number"
+    },
+    "base": {
+      "value": "20",
+      "type": "number"
+    },
+    "sm": {
+      "value": "20",
+      "type": "number"
+    },
+    "xs": {
+      "value": "16",
+      "type": "number"
+    }
+  },
+  "letterSpacing": {
+    "wide": {
+      "value": "1.5",
+      "type": "number"
+    },
+    "tight": {
+      "value": "-0.5",
+      "type": "number"
+    },
+    "default": {
+      "value": "0",
+      "type": "number"
+    },
+    "tighter": {
+      "value": "-3",
+      "type": "number"
+    }
+  },
+  "paragraphSpacing": {
+    "2xl": {
+      "value": "26",
+      "type": "number"
+    },
+    "3xl": {
+      "value": "32",
+      "type": "number"
+    }
+  }
+}

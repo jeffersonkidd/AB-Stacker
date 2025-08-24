@@ -1,0 +1,33 @@
+:root {
+  --color-primary: #00E1FF;
+  --color-secondary: #FFAE00;
+  --color-accent: #FF4200;
+
+  --font-body: 'Work Sans', sans-serif;
+  --font-display: 'Special Elite', monospace;
+
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+}
+
+==============================================================
+TINY POCKET CARDS:: 
+YOUR CSS STARTS WITH THESE LITTLE JELLYBEANS
+==============================================================
+
+:root {
+  --color-primary-base: #033C5A;
+  --color-secondary-base: #FF5722;
+
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+
+  --font-body-base: 1rem;
+}
+

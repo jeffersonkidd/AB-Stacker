@@ -1,0 +1,14 @@
+{
+  "name": "stacker",
+  "version": "2.0.1",
+  "main": "index.js",
+  "scripts": {
+    "compact": "node src/compact-tokens.js",
+    "build": "node build-tokens.js",
+    "merge": "node merge.js"
+  },
+  "keywords": [],
+  "author": "Jefferson Kidd",
+  "license": "Proprietary",
+  "description": ""
+}

@@ -1,0 +1,168 @@
+{
+  "sizing": {
+    "xxl": {
+      "value": "48",
+      "type": "number"
+    },
+    "xl": {
+      "value": "40",
+      "type": "number"
+    },
+    "lg": {
+      "value": "32",
+      "type": "number"
+    },
+    "md": {
+      "value": "24",
+      "type": "number"
+    },
+    "sm": {
+      "value": "16",
+      "type": "number"
+    }
+  },
+  "borderRadius": {
+    "full": {
+      "value": "9999",
+      "type": "number"
+    },
+    "xl": {
+      "value": "16",
+      "type": "number"
+    },
+    "lg": {
+      "value": "8",
+      "type": "number"
+    },
+    "sm": {
+      "value": "4",
+      "type": "number"
+    }
+  },
+  "borderWidth": {
+    "regular": {
+      "value": "1",
+      "type": "number"
+    },
+    "focus-ring": {
+      "value": "2",
+      "type": "number"
+    },
+    "device": {
+      "value": "8",
+      "type": "number"
+    }
+  },
+  "opacity": {
+    "high": {
+      "value": "90",
+      "type": "number"
+    },
+    "md": {
+      "value": "50",
+      "type": "number"
+    },
+    "low": {
+      "value": "10",
+      "type": "number"
+    },
+    "md-low": {
+      "value": "25",
+      "type": "number"
+    },
+    "md-high": {
+      "value": "75",
+      "type": "number"
+    },
+    "full": {
+      "value": "100",
+      "type": "number"
+    },
+    "none": {
+      "value": "0",
+      "type": "number"
+    }
+  },
+  "space": {
+    "0": {
+      "value": "0",
+      "type": "number"
+    },
+    "50": {
+      "value": "2",
+      "type": "number"
+    },
+    "100": {
+      "value": "4",
+      "type": "number"
+    },
+    "150": {
+      "value": "6",
+      "type": "number"
+    },
+    "200": {
+      "value": "8",
+      "type": "number"
+    },
+    "300": {
+      "value": "12",
+      "type": "number"
+    },
+    "400": {
+      "value": "16",
+      "type": "number"
+    },
+    "600": {
+      "value": "24",
+      "type": "number"
+    },
+    "800": {
+      "value": "32",
+      "type": "number"
+    },
+    "1200": {
+      "value": "48",
+      "type": "number"
+    },
+    "1600": {
+      "value": "64",
+      "type": "number"
+    },
+    "2000": {
+      "value": "92",
+      "type": "number"
+    },
+    "2400": {
+      "value": "96",
+      "type": "number"
+    },
+    "4000": {
+      "value": "160",
+      "type": "number"
+    },
+    "Negative-050": {
+      "value": "-2",
+      "type": "number"
+    },
+    "Negative-100": {
+      "value": "-4",
+      "type": "number"
+    },
+    "Negative-200": {
+      "value": "-8",
+      "type": "number"
+    },
+    "Negative-300": {
+      "value": "-12",
+      "type": "number"
+    },
+    "Negative-600": {
+      "value": "-24",
+      "type": "number"
+    },
+    "Negative-400": {
+      "value": "-16",
+      "type": "number"
+    }
+  }
+}
