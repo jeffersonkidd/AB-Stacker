@@ -1,11 +1,10 @@
 {
   "tokenSetOrder": [
-    "",
     "styles",
-    "color/color",
-    "theme/theme",
-    "global/global",
-    "typography/typography",
-    "geometry/geometry"
+    "color",
+    "theme",
+    "global",
+    "typography",
+    "geometry"
   ]
 }
